@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Pierwsza zmiana tekstu");
 Console.WriteLine("Druga zmiana tekstu");
+Console.WriteLine("Trzecia zmiana tekstu");
